@@ -39,7 +39,7 @@ a {
 .header__links--right:after {
   content: '';
   display: block;
-  background: url(/sources/resources/images/icon-hu.png);
+  background: url(../resources/images/icon-hu.png);
   background-size: cover;
   position: absolute;
   width: 2.26434966rem;
@@ -255,7 +255,7 @@ a {
   margin: 0 auto;
 }
 .six-weeks .content-picture {
-  background: url(/sources/resources/images/6ix.png) no-repeat center;
+  background: url(../resources/images/6ix.png) no-repeat center;
 }
 .item.six-weeks {
   margin-top: 1.27698789rem;
@@ -315,14 +315,14 @@ a {
   background-color: #00E676;
 }
 .Faumail .content-picture {
-  background: url(/sources/resources/images/Faumail.png) no-repeat center;
+  background: url(../resources/images/Faumail.png) no-repeat center;
 }
 .ui-kit .content .content-desc {
   margin-left: 1.15850448rem;
   margin-top: 0.61874671rem;
 }
 .ui-kit .content .content-picture {
-  background: url(/sources/resources/images/profile.png) no-repeat center;
+  background: url(../resources/images/profile.png) no-repeat center;
 }
 .ui-kit .content .content-tabs {
   left: 6.72064244rem;
